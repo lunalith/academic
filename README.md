@@ -1,2 +1,6 @@
-# academic
-Repositório para trabalhos e pesquisas acadêmicas.
+# 🌸 academic-bloom
+
+> *Arquivo pessoal de pesquisas, ensaios e experimentações acadêmicas*
+
+```txt
+Ritmo fragmentado — harmonia emergente.
